@@ -1,0 +1,17 @@
+Task 1 : Setup a GitHub Account (Done)
+
+Task 2 : Refresh concepts of HTML, css and Js(loops, arrays, objects, type and operators) (Done)
+
+Task 3 : what is React and JSX syntax (done)
+
+React is a JavaScript library for building user interfaces, primarily for single-page applications. It’s used for handling the view layer in web and mobile apps. React allows you to design simple views for each state in your application, and it will efficiently update and render the right components when your data changes. React components are reusable and can manage their own state. 
+
+Task 4 : setup a react app with create-react-app command and setup your VScode with relevant extensions (done)
+
+I have done this step before and its pretty simple.
+
+Task 5 : What is react components (done)
+
+React components are just small units of reusable code that helps to breakdown your application UI into smaller, manageable and independent pieces so your code looks readable, clean and easy to understand. Two ways to create components are class based and function based.
+Hierarchy Of components:
+Any react app would have an App.jsx components (parent component) then It would have children components like Header, Main or footer. Further these components would have more children components based on the needs of the app. for example footer can be further breakdown into newsletter and the info components etc
